@@ -6,10 +6,10 @@
            review="https://android-review.googlesource.com/" />
   <remote  name="grapheneos"
            fetch="https://github.com/GrapheneOS/"
-           revision="refs/heads/13-tangorpro" />
+           revision="refs/tags/2023090200-tangorpro" />
   <remote  name="grapheneos-gitlab"
            fetch="https://gitlab.com/grapheneos/"
-           revision="refs/heads/13-tangorpro" />
+           revision="refs/tags/2023090200-tangorpro" />
   <default revision="refs/tags/android-13.0.0_r71"
            remote="aosp"
            sync-j="4" />
